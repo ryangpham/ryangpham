@@ -1,7 +1,5 @@
-# hey, I'm Ryan Pham! 👋
-- 🎓 currently a 4th-year student pursuing a B.S. degree in Computer Science at Georgia State University.  
-- 💻 proficient and passionate in creating fun, useful applications through software development and machine learning.  
-- 🚀 previous intern @ New EIC, looking forward to job opportunities for 2026!  
+# hey, I'm Ryan Pham!
+🚀 incoming SWE @ KPMG Tax Ignition
   
 feel free to reach out and connect with me at:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ryan-pham/)
