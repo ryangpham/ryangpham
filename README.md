@@ -1,7 +1,6 @@
 # hey, I'm Ryan Pham!
-🚀 incoming SWE @ KPMG Tax Ignition
-  
-feel free to reach out and connect with me at:  
+check out my [website](https://ryanpham.me), and feel free to reach out and connect with me:  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ryan-pham/)
 <!---
 ryangpham/ryangpham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
